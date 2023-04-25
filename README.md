@@ -1,9 +1,14 @@
-### Olá! Meu nome é Gabriela Duarte. 👋
+### Olá! Eu Sou a Gabriela Duarte e estou estudando para me tornar uma desenvolvedora! ✨✨
 ###
 ###
 
-- 🔭 Estou em transição de carreira
-- 🌱 Estou aprendendo: Html | Css | BootStrap | React | JavaScript | Python | Data Base 
+- 🔭 Em transição de carreira
+- 🌱 Aprendendo;
+- <img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height = "30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
+- 
+- Html | Css | BootStrap | React | JavaScript | Python | Data Base 
 
 
 <a href="https://github.com/duartegabriela"/>
@@ -12,7 +17,4 @@
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartegabriela&layout=compact&theme=omni"/> 
 -->
-</div>
-</div style>
-<img align = "center" height = "30" width = "40" scr ="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
