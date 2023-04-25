@@ -1,4 +1,4 @@
-### Olá! Meu nome é Gabriela e eu sou aspirante a desenvolvedora. 👋
+### Olá! Meu nome é Gabriela Duarte. 👋
 ###
 ###
 
