@@ -12,3 +12,7 @@
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartegabriela&layout=compact&theme=omni"/> 
 -->
+</div>
+</div style>
+<img align = "center" height = "30" width = "40" scr ="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
