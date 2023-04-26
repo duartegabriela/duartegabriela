@@ -11,10 +11,15 @@
 <a href="https://instagram.com/gabiduarte.bar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:duarteg.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabreilas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.freecodecamp.org/duartegabriela"/ target = "_blank"><img src = "https://img.shields.io/badge/freeCodeCamp-portfolio-green.svg"/> 
+ 
+ </div>
+ <!-- <a href="https://www.freecodecamp.org/duartegabriela"/ target = "_blank"><img src = "https://img.shields.io/badge/FreeCodeCamp-%20Certification%20Name%20here-green.svg"/> 
+-->
+<div>
+<a href="https://github.com/duartegabriela">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartegabriela&layout=compact&langs_count=7&theme=dracula"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=duartegabriela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-         
-<!-- <a href="https://github.com/duartegabriela"/
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=duartegabriela&show_icons=true&theme=omni" />
-</picture> -->
-  
+ 
+ <div snake>
+ <scr = "https://github.com/seu-usuário-aqui/duartegabriela/blob/output/github-contribution-grid-snake.svg"/>
