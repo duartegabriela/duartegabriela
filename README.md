@@ -1,4 +1,4 @@
-## Olá Devs!! Eu sou a Gabi Duarte, seja bem vindo ao meu GitHub profile. ✨✨
+## Bem vindos! Eu sou a Gabi Duarte . ✨
 <div> 
 
 - #### 🔭 Em transição de carreira
