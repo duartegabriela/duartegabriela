@@ -23,4 +23,4 @@
 
  
  <div snake>
- <scr = "https://github.com/seu-usuário-aqui/duartegabriela/blob/output/github-contribution-grid-snake.svg"/>
+ :[snake gif] (https://github.com/duartegabriela/duartegabriela/blob/output/github-contribution-grid-snake.svg)
